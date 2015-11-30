@@ -56,3 +56,4 @@ Tests
 4. [BOM! Iframes!](./iframe)
 5. [Embed Code](./embed)
 6. [Out of this DOM](./comm)
+7. [Performance and recursion](./performance)
