@@ -31,7 +31,7 @@ Instructions
 Tests
 -----
 
-1. [Open Ended Questions](./questions)
-2. [Markup](./markup)
-3. [Dog App](./dogApp)
+1. [Open Ended Questions](questions.md)
+2. [Markup](markup.md)
+3. [Dog App](dogApp.md)
 4. [Small Functions](./functions)
