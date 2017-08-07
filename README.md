@@ -4,56 +4,34 @@ GumGum - JavaScript Engineering Skill Test
 Introduction
 ------------
 
-In this Skill Test we will try to assest your knowledge and experience when it comes to develop
-using JavaScript language.
-We will also cover some other web-based development tools and concepts.
+Welcome! Thank you for your interest in working on the GumGum JavaScript Engineering team!
+
+Our team works exclusively with JavaScript, and tasks can include anything from writing "plain" JavaScript to building full web applications with a framework, and from frontend to backend. As a team, we value communication, trying new things, and sharing knowledge. Core concepts for us include manipulating data and working with React and Flux/Redux. Therefore, we have designed the following to be as relevant as possible to the type of things you will be working with.
 
 **What's important for us?**
 
-- You are honest. Its OK to say _I don't know_.
-- GumGum is highly dynamic, we move fast but we need to be careful.
-- We prefer quality over speed, and speed over quantity.
-- You are a team player, please be considerate while coding.
+- You are honest. It's OK to say _I don't know_.
+- You are a team player. Please be considerate while coding and consider how your code might be read/understood by other people.
 - Pay attention to the details.
-- Be communicative.
-- Be communicative. Really.
-
-**So, what's covered in this exercises?**
-
-- JavaScript. Core, raw, pure javascript. _We love jQuery too, but this position is not about it_.
-- JavaScript patterns, OOJS or JSOO, closures, callbacks, scopes, prototypes and all that jazz.
-- The Browser(s): DOM, BOM, Developer tools, Debugging, etc.
-- Cross-Browser Compatibility: Hacks, Polyfills, performance comparisons, etc.
-- Client-side communication.
-- HTML(5) and CSS(3). Responsive design.
-- Some TDD, some Git, some 3rd party software, etc.
+- If you have any questions or suggestions, please ask!
 
 Instructions
 ------------
 
-- Read these instructions and each of the test carefully before you start to code.
-- You DON'T need to complete ALL the tests to send them back to use, you can choose and go for quality over quantity. But the more the merrier.
-- We recommend you to get (however you like) this folder, so you can send it back to us and we will easily check your changes ;)
-- Each folder has a different test, some will require extra files, some won't. You're free to modify these files in order to complete the test, just be sure that your answers will work out-of-the-box or create a README file about how to set it up (or automate it).
-- Each test is completely unstyled, we don't require you to beautify it but we do like pretty things too.
-- There's no numeration of the test so difficulty its not progressive, so be ready.
+- Read these instructions and each of the tests carefully before you start to code.
+- You DON'T need to complete ALL of the tests. But the more you do helps us get an idea of your experience.
+- If you do have React experience, please complete Dog App.
+- You can also submit a more high level view of the challenges you don't get to, describing how you would implement, or providing psuedocode.
+- Each folder has some instructions. Feel free to modify the files when you submit it back. Feel free to structure your files/code in any way you like.
 - We will use internet-enabled computers while reviewing your work, so don't hesitate to use online resources (as long as they are available for us).
-- We would love to see minified code, but please also send us the original un-minified code.
+- We have an [internal design system](http://ds.gumgum.com/stable/css/). Feel free to use it on your code!
 - Please let us know an ETA for your test.
-- Assume the general rules for all the tasks:
-    + No jQuery or 3rd party JS libs
-    + No PHP/Server-side processing.
-- For bonus points on all tasks:
-    + Readable and logically documented code, no need to document each line, but one or two lines in the interesting parts is ok.
-    + JSHint/Lint pass.
+- Please don't use jQuery.
 
 Tests
 -----
 
-1. [Starting Quiz](./quiz)
-2. [DOM and more](./polyfill)
-3. [TDD and OOJS](./tdd)
-4. [BOM! Iframes!](./iframe)
-5. [Embed Code](./embed)
-6. [Out of this DOM](./comm)
-7. [Performance and recursion](./performance)
+1. [Open Ended Questions](./questions)
+2. [Markup](./markup)
+3. [Dog App](./dogApp)
+4. [Small Functions](./functions)
