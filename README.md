@@ -27,6 +27,7 @@ Instructions
 - We have an [internal design system](http://ds.gumgum.com/stable/css/). Feel free to use it on your code!
 - Please let us know an ETA for your test.
 - Please don't use jQuery.
+- We prefer ES6!
 
 Tests
 -----
