@@ -1,6 +1,8 @@
 Generate Markup
 ==========================================
-There are two sets of data: containers and assets.
+We have a web app that allows users to create responsive ads, and then we generate their ad markup and output it as a string. The following simulates the experience.
+
+There are two sets of data below: containers and assets. Think of these as what you may get back as data from the API.
 
 Each container represents one media query. Each asset belongs to at least one container.
 
