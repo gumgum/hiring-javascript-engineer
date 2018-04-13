@@ -4,7 +4,7 @@ We are making a React app that needs to take in 3 dog breeds from the user and r
 
 Your app should have 3 selects populated with the dog breeds requested from the [list of breeds](https://dog.ceo/api/breeds/list).
 
-Once the user selects all 3, they should be able to click a button "Get dog images" and make a request for each dog breed’s random image from [this endpoint](https://dog.ceo/dog-api/">/breed/{breed}/images/random).
+Once the user selects all 3, they should be able to click a button "Get dog images" and make a request for each dog breed’s random image from [the breed endpoint (under random)](http://dog.ceo/dog-api/documentation/breed)
 
 Your app must wait until all of the data comes back and then return the data together (consider asynchronous code).
 
